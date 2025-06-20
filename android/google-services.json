@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091510788655",
+    "project_id": "cheer-22e6d",
+    "storage_bucket": "cheer-22e6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091510788655:android:feac99f20c374ccf1fdcda",
+        "android_client_info": {
+          "package_name": "com.example.cheer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmp7Gm03izVzxU6KpPrmSDFIPrcO0Dh00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

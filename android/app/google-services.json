@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1091510788655",
+    "project_id": "cheer-22e6d",
+    "storage_bucket": "cheer-22e6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091510788655:android:feac99f20c374ccf1fdcda",
+        "android_client_info": {
+          "package_name": "com.example.cheer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091510788655-onfcr1kmig7tdjujhu651ivn30nf14i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cheer",
+            "certificate_hash": "6abe44820441ff45962edf03653f2d4549f252c0"
+          }
+        },
+        {
+          "client_id": "1091510788655-3kj7l10q3764t5t3lfmg9qfn7n8asr2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmp7Gm03izVzxU6KpPrmSDFIPrcO0Dh00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091510788655-3kj7l10q3764t5t3lfmg9qfn7n8asr2s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091510788655-cqtnmhlasmeigsq6nde8laqd0b35rlih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cheer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
