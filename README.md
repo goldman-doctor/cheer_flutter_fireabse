@@ -1,16 +1,15 @@
-# cheer
+# 説明
 
-A new Flutter project.
+Flutter と Firebase で作られたチャットアプリです。
 
-## Getting Started
+# スクリーンショット
 
-This project is a starting point for a Flutter application.
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
-A few resources to get you started if this is your first Flutter project:
+# 実行方法
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- このリポジトリをクローンする
+- flutter pub get を実行する
+- flutter run を実行する（シミュレーターを開くか、実機を接続すると、iOS が追加コマンド pod install を自動実行する）
