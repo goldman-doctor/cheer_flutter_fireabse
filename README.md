@@ -2,8 +2,9 @@
 Flutter と Firebase で作られたチャットアプリです。
 
 スクリーンショット
-
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 実行方法
 このリポジトリをクローンする
 flutter pub get を実行する
